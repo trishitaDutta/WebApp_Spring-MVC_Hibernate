@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebApp01_SpringMVC_Hibernate:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebApp01_SpringMVC_Hibernate_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebApp01_SpringMVC_Hibernate/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebApp01_SpringMVC_Hibernate" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Hibernate 5.4.11-5.4.11" />
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="file-copy" path="E:/Excel_Msg_session_jarFiles_Myclouservice_Payment/Jar_files/postgresql-42.2.9.jar" />
+          <element id="file-copy" path="E:/Excel_Msg_session_jarFiles_Myclouservice_Payment/Jar_files/javax.servlet.jsp.jstl-1.2.1.jar" />
+          <element id="file-copy" path="E:/Excel_Msg_session_jarFiles_Myclouservice_Payment/Jar_files/javax.servlet.jsp.jstl-api-1.2.1.jar" />
+          <element id="file-copy" path="E:/Excel_Msg_session_jarFiles_Myclouservice_Payment/Jar_files/postgresql-42.2.14.jar" />
+          <element id="file-copy" path="E:/Excel_Msg_session_jarFiles_Myclouservice_Payment/Jar_files/jdbc-postgresql.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

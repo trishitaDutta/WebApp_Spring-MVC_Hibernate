@@ -1,0 +1,9 @@
+
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(µ•Šã
+wsquid:UselessImportCheck
+"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë
+{squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ðÿûÿÿÿÿ
+bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(‘¼Ê±
+xsquid:S1488s"aImmediately return this expression instead of assigning it to the temporary variable "customers".(°ô†ä
+|squid:S1488K"`Immediately return this expression instead of assigning it to the temporary variable "customer".(­ü¤‹þÿÿÿÿ
